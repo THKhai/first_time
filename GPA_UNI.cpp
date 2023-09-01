@@ -31,8 +31,6 @@ int main() {
     
     return 0;   
 }
-<<<<<<< HEAD
+
 // Hello dang tao conflict, alllllllaalalalalal
-=======
 // Hello dang tao conflict nonononononononon
->>>>>>> 3c4ec46ad0911fb01e78b2b1eb63185d8bf6e184
